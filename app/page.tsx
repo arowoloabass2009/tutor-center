@@ -146,8 +146,8 @@ export default function SplashPage() {
                 style={{ color: "white", letterSpacing: "-0.02em" }}
               >
                 Learn Anything,{" "}
-                <span style={{ color: "#fbbf24" }}>Anytime</span>,{" "}
-                <br />From the Best
+                <span style={{ color: "#fbbf24" }}>@ Anytime</span>,{" "}
+                <br />From the very Bests
               </h1>
               <p
                 className="text-lg mb-10 animate-fade-in-up delay-100"
